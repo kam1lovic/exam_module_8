@@ -1,0 +1,4 @@
+docker run -d -p 5432:5432 --name universal_con -e POSTGRES_DB=muhammad_db -e POSTGRES_USER=muhammad -e POSTGRES_PASSWORD=1 postgres:latest
+
+'Postgresda o'zimni 'user' ni yaratdim va o'z ismimga database ochdim'
+
